@@ -1,42 +1,25 @@
 <div align="center">
-  
-  <h1> Venuja Ranasinghe </h1>
-  <p><b>Data Science Undergraduate • Full-Stack Developer • Freelance Designer</b></p>
-  
-  <br />
 
-  <h3>
-    ⚡ Building things that make a difference <br>
-    🤖 Specializing in Data Science & AI <br>
-    🚀 Crafting Full-Stack Experiences
-  </h3>
+<!-- ANIMATED HEADER BANNER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0055ff,100:00aaff&height=240&section=header&text=Venuja%20Ranasinghe&fontSize=44&fontColor=e6edf3&fontAlignY=34&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Freelance%20Designer&descSize=15&descColor=8b949e&descAlignY=54&animation=fadeIn" width="100%"/>
 
-  <br />
+<!-- TYPING SVG --><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%E2%9A%A1+Building+things+that+make+a+difference;%F0%9F%A4%96+Specializing+in+Data+Science+%26+AI;%F0%9F%9A%80+Crafting+Full-Stack+Experiences" alt="Typing SVG" /></a><br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=vranasinghe&color=0055ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://github.com/vranasinghe?tab=followers">
-      <img src="https://img.shields.io/github/followers/vranasinghe?label=FOLLOWERS&style=flat-square&color=0055ff" alt="Followers" />
-    </a>
-    <a href="https://github.com/vranasinghe?tab=repositories">
-      <img src="https://img.shields.io/badge/REPOS-16-0055ff?style=flat-square&logo=github&logoColor=white" alt="Repos" />
-    </a>
-  </p>
+<!-- PROFILE VIEWS & SOCIAL LINKS --><img src="https://komarev.com/ghpvc/?username=vranasinghe&style=for-the-badge&color=00aaff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;<a href="https://github.com/vranasinghe?tab=followers">
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-3-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
+&nbsp;<a href="https://github.com/vranasinghe?tab=repositories">
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-16-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
 
-  <p>
-    <a href="https://your-portfolio-link.com">
-      <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_HERE-0055ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0055ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<!-- PORTFOLIO & LINKEDIN --><a href="https://venuja.online">
+  <img src="https://img.shields.io/badge/Portfolio-venuja.online-00aaff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+&nbsp;<a href="https://www.linkedin.com/in/your-profile/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00aaff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></div>
 
-</div>
+<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-<br />
+<!-- ABOUT ME SECTION --> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-### 👋 About Me
 
 ```yaml
 name: Ranasinghe R.P.V.K.
@@ -50,10 +33,8 @@ current_focus:
   - 🎨 Freelance Graphic Design & Video Editing
 stack_today: ["React Native", "MongoDB", "Python", "Spring Boot", "Figma"]
 languages: ["English", "Sinhala"]
-fun_fact: "When I'm not training ML models or debugging code, I'm hitting the gym for bodybuilding!"
 ```
-
----
+<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
 ### ⚡ Tech Arsenal
 
@@ -105,14 +86,9 @@ fun_fact: "When I'm not training ML models or debugging code, I'm hitting the gy
 
 </div>
 
+<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
----
-
-### 🌟 Featured Projects
-
----
-
-### 🌟 Featured Projects
+🌟 Featured Projects
 
 <table bordercolor="#30363d">
   <tr>
@@ -164,62 +140,80 @@ fun_fact: "When I'm not training ML models or debugging code, I'm hitting the gy
     </td>
   </tr>
 </table>
----
+<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
----
-
-
-
-### 📊 GitHub Analytics
+<!-- GITHUB STATS SECTION -->
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vranasinghe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0055ff&icon_color=0055ff&text_color=c9d1d9&v=3&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vranasinghe&layout=compact&hide_border=true&bg_color=0D1117&title_color=0055ff&text_color=c9d1d9&v=3&cache_seconds=86400" width="48%" alt="Top Languages" />
-</div>
+
+<a href="https://github.com/vranasinghe">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vranasinghe&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vranasinghe&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&text_color=8b949e&hide_border=false&langs_count=8" />
+</a>
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vranasinghe&hide_border=true&background=0D1117&ring=0055ff&fire=0055ff&currStreakNum=ffffff&currStreakLabel=0055ff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=vranasinghe&theme=dark&background=0d1117&border=30363d&stroke=0055ff&ring=00aaff&fire=00aaff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00aaff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-### 📈 Contribution Graph
+<!-- ACTIVITY GRAPH -->
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vranasinghe&bg_color=0D1117&color=0055ff&line=0055ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vranasinghe&bg_color=0d1117&color=00aaff&line=0055ff&point=e6edf3&area_color=0055ff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-### 🤝 Let's Connect
-
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-CONNECT-0055ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0055ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/vranasinghe">
-    <img src="https://img.shields.io/badge/GitHub-CONNECT-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-CONNECT-0055ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-VIEW_HERE-0055ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://raw.githubusercontent.com/vranasinghe/vranasinghe/output/github-contribution-grid-snake-blue.svg" alt="Snake animation" />
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+
+<!-- CONNECT SECTION -->
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
-  <p><b>- Cory House</b></p>
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/your-profile/">
+  <img src="https://img.shields.io/badge/LinkedIn-00aaff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/vranasinghe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/your-profile/">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://venuja.online">
+  <img src="https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Without%20data%2C%20you%27re%20just%20another%20person%20with%20an%20opinion.&author=W.%20Edwards%20Deming" alt="Random Dev Quote"/>
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <p>💙 <b>Thanks for visiting — let's build something amazing together!</b></p>
+
+### 💙 Thanks for visiting — let's build something amazing together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,40:0055ff,100:0d1117&height=130&section=footer" width="100%"/>
+
 </div>
