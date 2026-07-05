@@ -50,11 +50,11 @@ located_in: Watareka, Sri Lanka 🇱🇰
 university: Undergraduate
 degree: Data Science
 current_focus:
-  - 🧠 Advanced Machine Learning & NLP (CNNs, ResNet-50)
-  - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
-  - 📱 Mobile App Development (Building "Poth" in React Native)
+  - 🧠 Advanced Machine Learning & NLP 
+  - 🌐 Full-Stack Web Apps 
+  - 📱 Mobile App Development 
   - 🎨 Freelance Graphic Design & Video Editing
 stack_today: ["React Native", "MongoDB", "Python", "Spring Boot", "Figma"]
 languages: ["English", "Sinhala"]
-fun_fact: "When I'm not training ML models or debugging code, I'm hitting the gym for bodybuilding!"
+
 
