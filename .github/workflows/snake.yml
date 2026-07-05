@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: vranasinghe
           outputs: |
-            dist/github-contribution-grid-snake-blue.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-blue.svg?color_snake=blue
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
