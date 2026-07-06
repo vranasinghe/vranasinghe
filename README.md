@@ -212,7 +212,7 @@ languages: ["English", "Sinhala"]
 
 <div align="center">
 
-### 💙 Thanks for visiting — let's build something amazing together!
+###  Thanks for visiting — let's build something amazing together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,40:0055ff,100:0d1117&height=130&section=footer" width="100%"/>
 
