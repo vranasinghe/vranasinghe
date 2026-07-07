@@ -25,7 +25,7 @@
 name: Ranasinghe R.P.V.K.
 located_in: Padukka , Sri Lanka 🇱🇰
 university: Sri Lanka Institute of Information Technology (SLIIT)
-degree: Data Science
+degree: Bachelor of Science (Honours) in Information TechnologySpecialization in Data Science
 current_focus:
   - 🧠 Advanced Machine Learning & NLP (CNNs, ResNet-50)
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
