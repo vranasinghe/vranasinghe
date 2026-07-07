@@ -24,7 +24,7 @@
 ```yaml
 name: Ranasinghe R.P.V.K.
 located_in: Watareka, Sri Lanka 🇱🇰
-university: Undergraduate
+university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Data Science
 current_focus:
   - 🧠 Advanced Machine Learning & NLP (CNNs, ResNet-50)
