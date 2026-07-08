@@ -30,7 +30,7 @@ current_focus:
   - 🧠 Advanced Machine Learning & NLP (CNNs, ResNet-50)
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
   - 📱 Mobile App Development (Building "Poth" in React Native)
-  - 🎨 Freelance Graphic Design & Video 
+  - 🎨 Freelance Graphic Design & Vid
 stack_today: ["React Native", "MongoDB", "Python", "Spring Boot", "Figma"]
 languages: ["English", "Sinhala"]
 ```
