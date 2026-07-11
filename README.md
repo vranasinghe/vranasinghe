@@ -27,7 +27,7 @@ located_in: Padukka , Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information TechnologySpecialization in Data Science
 current_focus:
-  - 🧠 Advanced Machine Learning & NLP (CNNs, ResNet-50)
+  - 🧠 Advanced Machine Learning & NLP (CNNs )
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
   - 📱 Mobile App Development (Building "Poth" in React Native)
   - 🎨 Freelance Graphic Design 
