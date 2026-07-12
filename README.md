@@ -22,7 +22,7 @@
 
 
 ```yaml
-name: Venuja Rana
+name: Venuja Ranasi
 located_in: Padukka , Sri Lanka 
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information TechnologySpecialization in Data Science
