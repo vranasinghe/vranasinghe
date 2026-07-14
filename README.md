@@ -29,7 +29,7 @@ degree: Bachelor of Science (Honours) in Information TechnologySpecialization in
 current_focus:
   - 🧠 Advanced Machine Learning & NLP (CNNs)
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
-  - 📱 Mobile App Development (Building "Poth" in 
+  - 📱 Mobile App Development (Building "Poth" 
   - 🎨 Freelance Graphic Design 
 stack_today: ["React Native", "MongoDB", "Python", "Spring Boot", "Figma"]
 languages: ["English", "Sinhala"]
