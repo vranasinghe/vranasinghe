@@ -125,7 +125,7 @@ languages: ["English", "Sinhala"]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>💰 <a href="https://github.com/vranasinghe/Expense-Tracking-System">Expense Tracking Mobil</a></b><br/>
+      <b>💰 <a href="https://github.com/vranasinghe/Expense-Tracking-System">Expense Tracking Mobile</a></b><br/>
       Robust application designed to monitor personal finances, track daily expenses, and manage budgets efficiently.<br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
