@@ -132,7 +132,7 @@ languages: ["English", "Sinhala"]
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>🏡 <a href="https://github.com/vranasinghe/Real-state-project">Casa Mare Real Estate</a></b><br/>
+      <b>🏡 <a href="https://github.com/vranasinghe/Real-state-project">Aura Spa Real Estate</a></b><br/>
       Premium modern real estate web app integrated with a Supabase backend for user sessions, row-level security, and image storage.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
