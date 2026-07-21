@@ -31,7 +31,7 @@ current_focus:
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Design 
-stack_today: React Native , "MongoDB", "Python", "Spring Boot", "Figma"
+stack_today: React Native , MongoDB , "Python", "Spring Boot", "Figma"
 languages: English ,  Sinhala
 ```
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
