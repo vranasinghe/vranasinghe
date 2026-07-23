@@ -32,7 +32,7 @@ current_focus:
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Design 
 stack_today: React Native , Python , Spring Boot 
-languages: English ,  Sinhala
+languages: English , Sinhala
 ```
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
