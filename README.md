@@ -23,7 +23,7 @@
 
 ```yaml
 name: Venuja Ranasinghe
-located_in: Padukka , Sri Lanka 
+located_in: Colombo , Sri Lanka 
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
 current_focus:
