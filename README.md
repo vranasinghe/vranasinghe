@@ -28,7 +28,7 @@ university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
 current_focus:
   - 🧠 Advanced Machine Learning & NLP 
-  - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · )
+  - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Pytho )
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Design 
 stack_today: React Native , Python , Spring Boot 
