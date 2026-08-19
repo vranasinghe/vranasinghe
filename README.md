@@ -30,7 +30,7 @@ current_focus:
   - 🧠 Advanced Machine Learning & NLP .
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python )
   - 📱 Mobile App Development
-  - 🎨 Freelance Graphic Design 
+  - 🎨 Freelance Graphic De
 stack_today: React Native , Python , Spring Boot
 languages: English , Sinhala
 ```
