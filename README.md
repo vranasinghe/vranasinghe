@@ -27,7 +27,7 @@ located_in: Colombo , Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
 current_focus:
-  - 🧠 Advanced Machine Learning & NLP
+  - 🧠 Advanced Machine Learning & NL
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python )
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Design
