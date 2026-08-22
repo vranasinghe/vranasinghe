@@ -171,7 +171,7 @@ languages: English , Sinhala
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=vranasinghe&theme=dark&background=0d1117&border=30363d&stroke=0055ff&ring=00aaff&fire=00aaff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00aaff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vranasinghe&theme=dark&background=0d1117&border=30363d&stroke=0055ff&ring=00aaff&fire=00aaff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00aaff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
