@@ -149,11 +149,11 @@ languages: English , Sinhala
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**web-voting-system**](https://github.com/vranasinghe/web-voting-system) | 🟨 JavaScript | A Spring Boot-based web voting system for academic award nominations, featuring role-based access, real-time monitoring, and email notifications. Developed by a 6-member team for a 2nd-year project. |
-| [**Poth-bookCommunity-service**](https://github.com/vranasinghe/Poth-bookCommunity-service) | 🔷 TypeScript | Full Stack Mobile Application for Book Readers. Designed to alert users of local book availability. |
-| [**ChestAI_Diagnostics**](https://github.com/vranasinghe/ChestAI_Diagnostics) | 🐍 Python | Medical diagnostic decision support tool built by training an advanced ResNet-50 model on a large image dataset. |
-| [**DengueRisk**](https://github.com/vranasinghe/DengueRisk) | 🐍 Python | Machine learning project classifying dengue risk levels in Sri Lankan districts using weekly case data & weather-related features. |
-| [**Expense-Tracking-System**](https://github.com/vranasinghe/Expense-Tracking-System) | 🔷 TypeScript | Robust application designed to monitor personal finances, track daily expenses, and manage budgets efficiently. |
+| [**web-voting-system**](https://github.com/vranasinghe/web-voting-system) | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | A Spring Boot-based web voting system for academic award nominations, featuring role-based access, real-time monitoring, and email notifications. Developed by a 6-member team for a 2nd-year project. |
+| [**Poth-bookCommunity-service**](https://github.com/vranasinghe/Poth-bookCommunity-service) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Full Stack Mobile Application for Book Readers. Designed to alert users of local book availability. |
+| [**ChestAI_Diagnostics**](https://github.com/vranasinghe/ChestAI_Diagnostics) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Medical diagnostic decision support tool built by training an advanced ResNet-50 model on a large image dataset. |
+| [**DengueRisk**](https://github.com/vranasinghe/DengueRisk) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Machine learning project classifying dengue risk levels in Sri Lankan districts using weekly case data & weather-related features. |
+| [**Expense-Tracking-System**](https://github.com/vranasinghe/Expense-Tracking-System) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Robust application designed to monitor personal finances, track daily expenses, and manage budgets efficiently. |
 
 <!-- RECENT-REPOS:END -->
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
