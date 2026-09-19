@@ -34,10 +34,24 @@ const langBadges = {
   Shell: '<img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />',
 };
 
+// shields.io static badges use "-" as a separator and "_" for spaces, so
+// literal dashes/underscores must be doubled before URL-encoding.
+function shieldsEscape(text) {
+  return encodeURIComponent(
+    String(text).replace(/-/g, "--").replace(/_/g, "__").replace(/ /g, "_")
+  );
+}
+
 function getLangBadge(lang) {
   if (!lang) return "•";
   if (langBadges[lang]) return langBadges[lang];
-  return `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-30363d?style=flat-square" />`;
+  return `<img src="https://img.shields.io/badge/${shieldsEscape(lang)}-30363d?style=flat-square" />`;
+}
+
+// Keeps repo descriptions from breaking the Markdown table: collapses
+// newlines/whitespace and escapes pipe characters.
+function tableCell(text) {
+  return text.replace(/\s+/g, " ").replace(/\|/g, "\\|");
 }
 
 function ghHeaders() {
@@ -80,6 +94,9 @@ function replaceBadge(readme, label, count, logo) {
   if (startIdx === -1 || endIdx === -1 || endIdx < startIdx) {
     throw new Error(`Markers ${START} / ${END} not found in ${README}`);
   }
+  if (typeof count !== "number") {
+    throw new Error(`Invalid ${label} count from GitHub API: ${count}`);
+  }
   const alt = label.charAt(0) + label.slice(1).toLowerCase();
   const img =
     `<img src="https://img.shields.io/badge/${label}-${count}-00aaff` +
@@ -97,9 +114,9 @@ function renderRows(repos) {
     .slice(0, MAX)
     .map((r) => {
       const lang = getLangBadge(r.language);
-      const desc = r.description.trim();
+      const desc = r.description.replace(/\s+/g, " ").trim();
       const short = desc.length > 110 ? desc.slice(0, 107).trimEnd() + "…" : desc;
-      return `| [**${r.name}**](${r.html_url}) | ${lang} | ${short} |`;
+      return `| [**${r.name}**](${r.html_url}) | ${lang} | ${tableCell(short)} |`;
     });
 
   return [
@@ -126,7 +143,9 @@ async function main() {
     "\n<!-- Updated automatically by .github/workflows/update-readme.yml. Do not edit by hand. -->\n\n" +
     table +
     "\n\n";
-  let next = before + block + after;
+  // Match the README's existing line endings so we never mix LF and CRLF.
+  const eol = readme.includes("\r\n") ? "\r\n" : "\n";
+  let next = before + block.replace(/\r?\n/g, eol) + after;
 
   next = replaceBadge(next, "FOLLOWERS", profile.followers, "github");
   next = replaceBadge(next, "REPOS", profile.public_repos, "git");

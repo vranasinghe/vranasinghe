@@ -2,7 +2,7 @@
 
 <!-- ANIMATED HEADER BANNER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0055ff,100:00aaff&height=240&section=header&text=Venuja%20Ranasinghe&fontSize=44&fontColor=e6edf3&fontAlignY=34&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Freelance%20Designer&descSize=15&descColor=8b949e&descAlignY=54&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG --><a href="https://git.io/typing-svg">
+<!-- TYPING SVG --><a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%E2%9A%A1+Building+things+that+make+a+difference;%F0%9F%A4%96+Specializing+in+Data+Science+%26+AI;%F0%9F%9A%80+Crafting+Full-Stack+Experiences" alt="Typing SVG" /></a><br/>
 
 <!-- PROFILE VIEWS & SOCIAL LINKS --><img src="https://komarev.com/ghpvc/?username=vranasinghe&style=for-the-badge&color=00aaff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -18,12 +18,12 @@
 
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-<!-- ABOUT ME SECTION --> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
+<!-- ABOUT ME SECTION -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
 name: Venuja Ranasinghe
-located_in: Colombo , Sri Lanka 
+located_in: Colombo, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
 current_focus:
@@ -31,12 +31,13 @@ current_focus:
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Design
-stack_today: React Native , Python , Spring Boot
-languages: English , Sinhala
+stack_today: React Native, Python, Spring Boot
+languages: English, Sinhala
 ```
+
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-### ⚡ Tech Arsenal
+## ⚡ &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -88,7 +89,7 @@ languages: English , Sinhala
 
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
-### 🌟 Featured Projects
+## 🌟 &nbsp;Featured Projects
 
 <table bordercolor="#30363d">
   <tr>
@@ -125,7 +126,7 @@ languages: English , Sinhala
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>💰 <a href="https://github.com/vranasinghe/Expense-Tracking-System">Expense Tracking Mobile App </a></b><br/>
+      <b>💰 <a href="https://github.com/vranasinghe/Expense-Tracking-System">Expense Tracking Mobile App</a></b><br/>
       Robust application designed to monitor personal finances, track daily expenses, and manage budgets efficiently.<br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -142,7 +143,7 @@ languages: English , Sinhala
 </table>
 
 <!-- RECENT REPOS SECTION -->
-### ⚡ Recent Repositories
+## 🕒 &nbsp;Recent Repositories
 
 <!-- RECENT-REPOS:START -->
 <!-- Updated automatically by .github/workflows/update-readme.yml. Do not edit by hand. -->
@@ -153,6 +154,7 @@ languages: English , Sinhala
 | [**Poth-bookCommunity-service**](https://github.com/vranasinghe/Poth-bookCommunity-service) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Full Stack Mobile Application for Book Readers |
 
 <!-- RECENT-REPOS:END -->
+
 <!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
 
 <!-- GITHUB STATS SECTION -->
@@ -161,8 +163,8 @@ languages: English , Sinhala
 <div align="center">
 
 <a href="https://github.com/vranasinghe">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vranasinghe&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vranasinghe&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&text_color=8b949e&hide_border=false&langs_count=8" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=vranasinghe&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vranasinghe&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&text_color=8b949e&hide_border=false&langs_count=8" />
 </a>
 
 <br/>
@@ -178,7 +180,7 @@ languages: English , Sinhala
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vranasinghe&bg_color=0d1117&color=00aaff&line=0055ff&point=e6edf3&area_color=0055ff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vranasinghe&theme=github_dark" alt="Contribution Timeline" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
