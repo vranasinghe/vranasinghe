@@ -180,7 +180,8 @@ languages: English, Sinhala
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vranasinghe&theme=github_dark" alt="Contribution Timeline" width="95%"/>
+  <!-- Generated daily by scripts/generate-contribution-graph.mjs -->
+  <img src="assets/contribution-graph.svg" alt="Contribution Timeline" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
