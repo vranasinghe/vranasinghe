@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
-name: Venuja Ranasinghe
+name: Venuja Ran
 located_in: Colombo, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
