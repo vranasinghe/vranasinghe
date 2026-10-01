@@ -31,7 +31,7 @@ current_focus:
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
   - 📱 Mobile App Development
   - 🎨 Freelance Graphic Designer
-stack_today: React Native, Python, Spring Boot
+stack_today: React , Python, Spring Boot
 languages: English, Sinhala
 ```
 
