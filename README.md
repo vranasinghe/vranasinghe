@@ -25,7 +25,7 @@
 name: Venuja Ranasinghe
 located_in: Colombo, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
-degree: Bachelor of Science (Honours) in Information Technology Specialization in Data Science
+degree: Bachelor of Science (Honours) in Information Technology Specialization in Data 
 current_focus:
   - 🧠 Advanced Machine Learning & NLP
   - 🌐 Full-Stack Web Apps (MERN · Java Spring Boot · Python)
