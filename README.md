@@ -7,9 +7,9 @@
 
 <!-- PROFILE VIEWS & SOCIAL LINKS --><img src="https://komarev.com/ghpvc/?username=vranasinghe&style=for-the-badge&color=00aaff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;<a href="https://github.com/vranasinghe?tab=followers">
-  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-1-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-2-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
 &nbsp;<a href="https://github.com/vranasinghe?tab=repositories">
-  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-20-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-21-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
 
 <!-- PORTFOLIO & LINKEDIN --><a href="https://venuja.online">
   <img src="https://img.shields.io/badge/Portfolio-venuja.online-00aaff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
