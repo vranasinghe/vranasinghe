@@ -182,7 +182,9 @@ ${points.join("\n")}
 }
 
 async function main() {
-  const days = parseCalendar(await fetchCalendar()).slice(-DAYS);
+  const data = JSON.parse(await readFile(".cache/profile-data.json", "utf8"));
+  const days = data.calendar.slice(-DAYS);
+  if (days.length < 2) throw new Error("At least two calendar days are required");
   const svg = renderSvg(days);
 
   const current = await readFile(OUT, "utf8").catch(() => null);

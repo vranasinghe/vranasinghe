@@ -1,0 +1,2 @@
+import {readFile,access} from 'node:fs/promises';
+const text=await readFile('README.md','utf8');const lines=text.split('\n');for(let i=0;i<lines.length;i++){const line=lines[i];if(/your-profile|your\.email|example\.com|TODO/i.test(line))console.log(`::warning file=README.md,line=${i+1}::Placeholder link needs attention`);for(const m of line.matchAll(/(?:src|srcset)="(assets\/[^"?#]+)"/g))try{await access(m[1]);}catch{console.log(`::warning file=README.md,line=${i+1}::Missing image ${m[1]}`);}}

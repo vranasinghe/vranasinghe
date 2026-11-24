@@ -1,25 +1,21 @@
 <div align="center">
-
 <!-- ANIMATED HEADER BANNER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0055ff,100:00aaff&height=240&section=header&text=Venuja%20Ranasinghe&fontSize=44&fontColor=e6edf3&fontAlignY=34&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Freelance%20Designer&descSize=15&descColor=8b949e&descAlignY=54&animation=fadeIn" width="100%"/>
-
 <!-- TYPING SVG --><a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%E2%9A%A1+Building+things+that+make+a+difference;%F0%9F%A4%96+Specializing+in+Data+Science+%26+AI;%F0%9F%9A%80+Crafting+Full-Stack+Experiences" alt="Typing SVG" /></a><br/>
-
 <!-- PROFILE VIEWS & SOCIAL LINKS --><img src="https://komarev.com/ghpvc/?username=vranasinghe&style=for-the-badge&color=00aaff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;<a href="https://github.com/vranasinghe?tab=followers">
   <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-4-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
 &nbsp;<a href="https://github.com/vranasinghe?tab=repositories">
   <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-19-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
-
 <!-- PORTFOLIO & LINKEDIN --><a href="https://venuja.online">
   <img src="https://img.shields.io/badge/Portfolio-venuja.online-00aaff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 &nbsp;<a href="https://www.linkedin.com/in/your-profile/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00aaff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></div>
 
-<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
 
 <!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## 👋 &nbsp;About Me
 
 ```yaml
 name: Venuja Ranasinghe
@@ -35,7 +31,7 @@ stack_today: React Native, Python, Spring Boot
 languages: English, Sinhala
 ```
 
-<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
 
 ## ⚡ &nbsp;Tech Arsenal
 
@@ -87,7 +83,7 @@ languages: English, Sinhala
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 </div>
 
-<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
 
 ## 🌟 &nbsp;Featured Projects
 
@@ -146,36 +142,29 @@ languages: English, Sinhala
 ## 🕒 &nbsp;Recent Repositories
 
 <!-- RECENT-REPOS:START -->
-<!-- Updated automatically by .github/workflows/update-readme.yml. Do not edit by hand. -->
-
-| Repository | Language | Description |
-| :--- | :--- | :--- |
-| [**poth-collective**](https://github.com/vranasinghe/poth-collective) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Poth Collective — book discovery, reading community and independent bookshop management, built with Expo an… |
-| [**web-voting-system**](https://github.com/vranasinghe/web-voting-system) | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | A Spring Boot-based web voting system for academic award nominations, featuring role-based access, real-tim… |
-| [**Poth-bookCommunity-service**](https://github.com/vranasinghe/Poth-bookCommunity-service) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Full Stack Mobile Application for Book Readers |
-
+<!-- Updated automatically; do not edit by hand. -->
+Recent repositories will appear after the first update.
 <!-- RECENT-REPOS:END -->
 
-<!-- DIVIDER --><img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
 
-<!-- GITHUB STATS SECTION -->
+## 📡 &nbsp;Latest Activity
+
+<!-- ACTIVITY:START -->
+<!-- Updated automatically; do not edit by hand. -->
+Activity will appear after the first update.
+<!-- ACTIVITY:END -->
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/vranasinghe">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=vranasinghe&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vranasinghe&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00aaff&text_color=8b949e&hide_border=false&langs_count=8" />
-</a>
-
-<br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=vranasinghe&theme=dark&background=0d1117&border=30363d&stroke=0055ff&ring=00aaff&fire=00aaff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00aaff&sideLabels=8b949e&dates=8b949e&v=2" alt="GitHub Streak"/>
-
+<img src="assets/stats-card.svg" height="180" alt="GitHub statistics"/> <img src="assets/top-langs.svg" height="180" alt="Top languages"/><br/>
+<img src="assets/streak-card.svg" height="180" alt="Contribution streak"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ACTIVITY GRAPH -->
 ## 📈 &nbsp;Contribution Graph
@@ -185,14 +174,14 @@ languages: English, Sinhala
   <img src="assets/contribution-graph.svg" alt="Contribution Timeline" width="95%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vranasinghe/vranasinghe/output/github-contribution-grid-snake-blue.svg" alt="Snake animation" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vranasinghe/vranasinghe/output/github-contribution-grid-snake-dark.svg"/><img src="https://raw.githubusercontent.com/vranasinghe/vranasinghe/output/github-contribution-grid-snake-blue.svg" alt="Contribution snake animation"/></picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00aaff&height=2&width=100%" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- CONNECT SECTION -->
 ## 🤝 &nbsp;Let's Connect
@@ -221,7 +210,7 @@ languages: English, Sinhala
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Without%20data%2C%20you%27re%20just%20another%20person%20with%20an%20opinion.&author=W.%20Edwards%20Deming" alt="Random Dev Quote"/>
+<i>"Without data, you're just another person with an opinion."</i><br/><sub>— W. Edwards Deming</sub>
 
 </div>
 
