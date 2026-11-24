@@ -9,7 +9,7 @@
 &nbsp;<a href="https://github.com/vranasinghe?tab=followers">
   <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-4-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
 &nbsp;<a href="https://github.com/vranasinghe?tab=repositories">
-  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-18-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-19-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
 
 <!-- PORTFOLIO & LINKEDIN --><a href="https://venuja.online">
   <img src="https://img.shields.io/badge/Portfolio-venuja.online-00aaff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -150,6 +150,7 @@ languages: English, Sinhala
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**poth-collective**](https://github.com/vranasinghe/poth-collective) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Poth Collective — book discovery, reading community and independent bookshop management, built with Expo an… |
 | [**web-voting-system**](https://github.com/vranasinghe/web-voting-system) | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | A Spring Boot-based web voting system for academic award nominations, featuring role-based access, real-tim… |
 | [**Poth-bookCommunity-service**](https://github.com/vranasinghe/Poth-bookCommunity-service) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | Full Stack Mobile Application for Book Readers |
 
