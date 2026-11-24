@@ -143,7 +143,13 @@ languages: English, Sinhala
 
 <!-- RECENT-REPOS:START -->
 <!-- Updated automatically; do not edit by hand. -->
-Recent repositories will appear after the first update.
+| Repository | Language | Description | Last push |
+| :--- | :--- | :--- | :--- |
+| [**poth-collective**](https://github.com/vranasinghe/poth-collective) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | Poth Collective — book discovery, reading community and independent bookshop management, built with  | Nov 24, 2026 |
+| [**E-Commerce-web-system**](https://github.com/vranasinghe/E-Commerce-web-system) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 23, 2026 |
+| [**Real-Time-Chat-App**](https://github.com/vranasinghe/Real-Time-Chat-App) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 23, 2026 |
+| [**Commerce-Lense**](https://github.com/vranasinghe/Commerce-Lense) | ![TSQL](https://img.shields.io/badge/TSQL-e38c00?style=flat-square) | _No description yet_ | Nov 22, 2026 |
+| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 22, 2026 |
 <!-- RECENT-REPOS:END -->
 
 <!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
@@ -152,7 +158,12 @@ Recent repositories will appear after the first update.
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-Activity will appear after the first update.
+1. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
+2. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
+3. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
+4. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
+5. 🔨 Pushed 0 commits to **Real-Time-Chat-App** · <sub>Nov 22</sub>
+6. 🔨 Pushed 0 commits to **Real-Time-Chat-App** · <sub>Nov 23</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
