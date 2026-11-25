@@ -6,7 +6,7 @@
 &nbsp;<a href="https://github.com/vranasinghe?tab=followers">
   <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-4-00aaff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END --></a>
 &nbsp;<a href="https://github.com/vranasinghe?tab=repositories">
-  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-19-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-20-00aaff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END --></a><br/>
 <!-- PORTFOLIO & LINKEDIN --><a href="https://venuja.online">
   <img src="https://img.shields.io/badge/Portfolio-venuja.online-00aaff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 &nbsp;<a href="https://www.linkedin.com/in/your-profile/">
@@ -145,11 +145,11 @@ languages: English, Sinhala
 <!-- Updated automatically; do not edit by hand. -->
 | Repository | Language | Description | Last push |
 | :--- | :--- | :--- | :--- |
+| [**Multi-Tenant-AI-Customer-Support-Platform-with-RAG**](https://github.com/vranasinghe/Multi-Tenant-AI-Customer-Support-Platform-with-RAG) | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) | _No description yet_ | Nov 25, 2026 |
+| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 25, 2026 |
 | [**poth-collective**](https://github.com/vranasinghe/poth-collective) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | Poth Collective — book discovery, reading community and independent bookshop management, built with  | Nov 24, 2026 |
 | [**E-Commerce-web-system**](https://github.com/vranasinghe/E-Commerce-web-system) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 23, 2026 |
 | [**Real-Time-Chat-App**](https://github.com/vranasinghe/Real-Time-Chat-App) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 23, 2026 |
-| [**Commerce-Lense**](https://github.com/vranasinghe/Commerce-Lense) | ![TSQL](https://img.shields.io/badge/TSQL-e38c00?style=flat-square) | _No description yet_ | Nov 22, 2026 |
-| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 22, 2026 |
 <!-- RECENT-REPOS:END -->
 
 <!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
@@ -158,12 +158,12 @@ languages: English, Sinhala
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-1. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
-2. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
-3. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
-4. 🔀 Opened a pull request in **poth-collective** · <sub>Nov 24</sub>
-5. 🔨 Pushed 0 commits to **Real-Time-Chat-App** · <sub>Nov 22</sub>
-6. 🔨 Pushed 0 commits to **Real-Time-Chat-App** · <sub>Nov 23</sub>
+1. 🌱 Created branch codex/portfolio-hierarchy-github in **portfolio** · <sub>Nov 24</sub>
+2. 🔀 Opened a pull request in **portfolio** · <sub>Nov 25</sub>
+3. 🔀 Opened a pull request in **portfolio** · <sub>Nov 24</sub>
+4. 🌱 Created branch codex/fix-production-demo-cors in **poth-collective** · <sub>Nov 24</sub>
+5. 🔀 Opened a pull request in **portfolio** · <sub>Nov 24</sub>
+6. 🌱 Created branch dev in **poth-collective** · <sub>Nov 24</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
