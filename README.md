@@ -145,7 +145,7 @@ languages: English, Sinhala
 <!-- Updated automatically; do not edit by hand. -->
 | Repository | Language | Description | Last push |
 | :--- | :--- | :--- | :--- |
-| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 26, 2026 |
+| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 27, 2026 |
 | [**Multi-Tenant-AI-Customer-Support-Platform-with-RAG**](https://github.com/vranasinghe/Multi-Tenant-AI-Customer-Support-Platform-with-RAG) | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) | _No description yet_ | Nov 26, 2026 |
 | [**Expense_Tracking_Mobile_App**](https://github.com/vranasinghe/Expense_Tracking_Mobile_App) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 25, 2026 |
 | [**poth-collective**](https://github.com/vranasinghe/poth-collective) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | Poth Collective — book discovery, reading community and independent bookshop management, built with  | Nov 24, 2026 |
@@ -158,12 +158,12 @@ languages: English, Sinhala
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-1. 🌱 Created branch feat/usd-and-repo-cleanup in **Expense_Tracking_Mobile_App** · <sub>Nov 25</sub>
-2. 🌱 Created branch codex/remove-ai-status in **portfolio** · <sub>Nov 26</sub>
-3. 🔨 Pushed 0 commits to **Expense_Tracking_Mobile_App** · <sub>Nov 25</sub>
-4. 🌱 Created branch feat/milestone-a-and-portfolio-video in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
-5. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
-6. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
+1. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
+2. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
+3. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
+4. 🔨 Pushed 0 commits to **portfolio** · <sub>Nov 27</sub>
+5. 🌱 Created branch codex/invite-only-reviews in **portfolio** · <sub>Nov 27</sub>
+6. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
