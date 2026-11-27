@@ -158,12 +158,12 @@ languages: English, Sinhala
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-1. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
-2. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
-3. 🔀 Opened a pull request in **portfolio** · <sub>Nov 26</sub>
-4. 🔀 Opened a pull request in **portfolio** · <sub>Nov 26</sub>
-5. 🔀 Opened a pull request in **portfolio** · <sub>Nov 26</sub>
-6. 🔀 Opened a pull request in **portfolio** · <sub>Nov 26</sub>
+1. 🌱 Created branch feat/usd-and-repo-cleanup in **Expense_Tracking_Mobile_App** · <sub>Nov 25</sub>
+2. 🌱 Created branch codex/remove-ai-status in **portfolio** · <sub>Nov 26</sub>
+3. 🔨 Pushed 0 commits to **Expense_Tracking_Mobile_App** · <sub>Nov 25</sub>
+4. 🌱 Created branch feat/milestone-a-and-portfolio-video in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
+5. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
+6. 🔀 Opened a pull request in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
