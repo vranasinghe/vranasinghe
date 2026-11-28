@@ -158,12 +158,12 @@ languages: English, Sinhala
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-1. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
-2. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
-3. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
-4. 🔨 Pushed 0 commits to **portfolio** · <sub>Nov 27</sub>
-5. 🌱 Created branch codex/invite-only-reviews in **portfolio** · <sub>Nov 27</sub>
-6. 🔀 Opened a pull request in **portfolio** · <sub>Nov 27</sub>
+1. 🔨 Pushed 0 commits to **portfolio** · <sub>Nov 27</sub>
+2. 🌱 Created branch codex/simplify-client-reviews in **portfolio** · <sub>Nov 27</sub>
+3. 🌱 Created branch codex/ai-support-links in **portfolio** · <sub>Nov 26</sub>
+4. 🌱 Created branch codex/ai-support-project in **portfolio** · <sub>Nov 26</sub>
+5. 🌱 Created branch feature/rag-portfolio-showcase in **portfolio** · <sub>Nov 26</sub>
+6. 🌱 Created branch dev-UI in **abdulbaasitkowdu-wq/Team_Acension_SLIIT** · <sub>Nov 27</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
