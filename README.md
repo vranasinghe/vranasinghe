@@ -145,11 +145,11 @@ languages: English, Sinhala
 <!-- Updated automatically; do not edit by hand. -->
 | Repository | Language | Description | Last push |
 | :--- | :--- | :--- | :--- |
-| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 27, 2026 |
+| [**Medical-Guideline-RAG-System**](https://github.com/vranasinghe/Medical-Guideline-RAG-System) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 28, 2026 |
+| [**portfolio**](https://github.com/vranasinghe/portfolio) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 28, 2026 |
 | [**Multi-Tenant-AI-Customer-Support-Platform-with-RAG**](https://github.com/vranasinghe/Multi-Tenant-AI-Customer-Support-Platform-with-RAG) | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) | _No description yet_ | Nov 26, 2026 |
 | [**Expense_Tracking_Mobile_App**](https://github.com/vranasinghe/Expense_Tracking_Mobile_App) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 25, 2026 |
 | [**poth-collective**](https://github.com/vranasinghe/poth-collective) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | Poth Collective — book discovery, reading community and independent bookshop management, built with  | Nov 24, 2026 |
-| [**E-Commerce-web-system**](https://github.com/vranasinghe/E-Commerce-web-system) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) | _No description yet_ | Nov 23, 2026 |
 <!-- RECENT-REPOS:END -->
 
 <!-- DIVIDER --><img src="assets/divider.svg" width="100%"/>
@@ -158,12 +158,12 @@ languages: English, Sinhala
 
 <!-- ACTIVITY:START -->
 <!-- Updated automatically; do not edit by hand. -->
-1. 🔨 Pushed 0 commits to **portfolio** · <sub>Nov 27</sub>
-2. 🌱 Created branch codex/simplify-client-reviews in **portfolio** · <sub>Nov 27</sub>
-3. 🌱 Created branch codex/ai-support-links in **portfolio** · <sub>Nov 26</sub>
-4. 🌱 Created branch codex/ai-support-project in **portfolio** · <sub>Nov 26</sub>
-5. 🌱 Created branch feature/rag-portfolio-showcase in **portfolio** · <sub>Nov 26</sub>
-6. 🌱 Created branch dev-UI in **abdulbaasitkowdu-wq/Team_Acension_SLIIT** · <sub>Nov 27</sub>
+1. 🔀 Opened a pull request in **portfolio** · <sub>Nov 28</sub>
+2. 🔨 Pushed 0 commits to **portfolio** · <sub>Nov 26</sub>
+3. 🔀 Opened a pull request in **portfolio** · <sub>Nov 28</sub>
+4. 🌱 Created branch feat/phase-7-and-hardening in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
+5. 🔨 Pushed 0 commits to **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
+6. 🌱 Created branch feat/milestone-a-hardening in **Multi-Tenant-AI-Customer-Support-Platform-with-RAG** · <sub>Nov 26</sub>
 <!-- ACTIVITY:END -->
 
 <img src="assets/divider.svg" width="100%"/>
